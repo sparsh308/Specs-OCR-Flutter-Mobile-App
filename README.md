@@ -3,6 +3,7 @@
 “Specs OCR Scanner Flutter Mobile application” is a Utility app which helps in recognizing any text from an image with 98% to 100% accuracy with text translation functionality up to 113 languages. It uses artificial intelligence to identify text both within images from the phone's gallery and in a live view from your phone's camera, and it also allows the user to share and learn more about the text by searching it on internet.
 
 The function of OCR is to help digitize documents in a timely manner and fashion. Instead of retyping files or manually typing out text within image files, you can use Specs OCR to automatically scan and recognize text within your image or your document.
+
 ![i01_WhatsApp Image 2021-01-01 at 6 37 22 PM](https://user-images.githubusercontent.com/47140660/103439419-b14c3680-4c62-11eb-9b82-dfca8945a04f.jpeg)
 ![i01_WhatsApp Image 2021-01-01 at 6 37 22 PM 1 (1)](https://user-images.githubusercontent.com/47140660/103439421-c032e900-4c62-11eb-9780-98674acb772e.jpeg)
 ![i01_WhatsApp Image 2021-01-01 at 6 37 22 PM 2](https://user-images.githubusercontent.com/47140660/103439429-d640a980-4c62-11eb-86ad-ecf360969e88.jpeg)
