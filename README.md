@@ -4,9 +4,11 @@
 
 The function of OCR is to help digitize documents in a timely manner and fashion. Instead of retyping files or manually typing out text within image files, you can use Specs OCR to automatically scan and recognize text within your image or your document.
 
+![ezgif-1-3a341e4bb4cf](https://user-images.githubusercontent.com/47140660/103439541-ca091c00-4c63-11eb-93d1-4d628e415f61.gif)
+
 ![i01_WhatsApp Image 2021-01-01 at 6 37 22 PM](https://user-images.githubusercontent.com/47140660/103439419-b14c3680-4c62-11eb-9b82-dfca8945a04f.jpeg)
 ![i01_WhatsApp Image 2021-01-01 at 6 37 22 PM 1 (1)](https://user-images.githubusercontent.com/47140660/103439421-c032e900-4c62-11eb-9780-98674acb772e.jpeg)
-![i01_WhatsApp Image 2021-01-01 at 6 37 22 PM 2](https://user-images.githubusercontent.com/47140660/103439429-d640a980-4c62-11eb-86ad-ecf360969e88.jpeg)
+
 
 
 
